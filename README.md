@@ -13,6 +13,6 @@ Intel OpenVINO在2022.1版後就有重大改革[1]，同時提供了很多 Jupyt
 點擊下列網址可直接開啟範例進行測試。  
 https://colab.research.google.com/github/OmniXRI/OpenVINO2022_Pypi_install_on_Colab/blob/main/Pypi_install_OpenVINO_on_Colab.ipynb
 
-[1][OpenVINO 2022大改版讓Edge AI玩出新花樣](https://omnixri.blogspot.com/2022/08/openvino-2022edge-ai.html)  
-[2][Github - openvinotoolkit / openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)  
-[3][Learn OpenVINO -Interactive Tutorials (Python)](https://docs.openvino.ai/latest/tutorials.html)  
+[1] [許哲豪，OpenVINO 2022大改版讓Edge AI玩出新花樣](https://omnixri.blogspot.com/2022/08/openvino-2022edge-ai.html)  
+[2] [Github - openvinotoolkit / openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)  
+[3] [Intel, Learn OpenVINO -Interactive Tutorials (Python)](https://docs.openvino.ai/latest/tutorials.html)  
