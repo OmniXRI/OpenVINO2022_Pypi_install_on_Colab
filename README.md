@@ -1,0 +1,2 @@
+# OpenVINO2022_Pypi_install_on_Colab
+如何在Colab上透過Pypi安裝OpenVINO開發者版本
